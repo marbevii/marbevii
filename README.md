@@ -1,7 +1,7 @@
 # Hey, what's up?
 
 ## About Me 😵‍💫
-😋 My name is Mar, and I'm a passionate young developer from Catalonia, Spain  <br>🎓 I'm currently studying engineering at FIB, UPC  <br>🎯 I want to become a software engineer and keep learning every day  <br>🎶 I love listening to music and playing instruments  <br>🗣️ I speak Catalan, Spanish, English, and a little bit of French<br>
+😋 My name is Mar, and I'm a passionate young developer from Catalonia, Spain  <br>🎓 I'm currently studying engineering  <br>🎯 I want to become a software engineer and keep learning every day  <br>🎶 I love listening to music and playing instruments  <br>🗣️ I speak Catalan, Spanish, English, and a little bit of French<br>
 
 
 ### Socials 📷
@@ -9,6 +9,13 @@ I enjoy sharing content that makes people smile and feel understood.
 • On TikTok, I post humor about studying engineering, trying to make this intense journey feel lighter and more fun.  
 • On YouTube, I share vlogs of my daily life and tech-related videos whenever inspiration hits. <br> <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mar.bevi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mar.bevi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@marbevii) 
+
+## What I'm currently doing ?
+
+• Working as a programming and robotics teacher 🤖  
+• 2nd-year Computer Science student at FIB, UPC 📚  
+• Open to creating social media content for tech or lifestyle brands 📱
+
 
 ## Languages & frameworks 💻
 
