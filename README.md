@@ -13,7 +13,7 @@ I enjoy sharing content that makes people smile and feel understood.
 ## What I'm currently doing ?
 
 • Working as a programming and robotics teacher 🤖  
-• 2nd-year Computer Science student at FIB, UPC 📚  
+• Starting 2nd year of Computer Science at FIB, UPC this September 📚  
 • Open to creating social media content for tech or lifestyle brands 📱
 
 
