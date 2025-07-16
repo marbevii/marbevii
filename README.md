@@ -7,7 +7,7 @@
 ### Socials 📷
 I enjoy sharing content that makes people smile and feel understood.  
 • On TikTok, I post humor about studying engineering, trying to make this intense journey feel lighter and more fun.  
-• On YouTube, I share vlogs of my daily life and tech-related videos whenever inspiration hits. <br>
+• On YouTube, I share vlogs of my daily life and tech-related videos whenever inspiration hits. <br> <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mar.bevi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mar.bevi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@marbevii) 
 
 ## Languages & frameworks 💻
@@ -25,8 +25,7 @@ Currently, I’m self-teaching React, Next.js, npm, and Docker! <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenSCAD_Logo.png" alt="OpenSCAD" width="40" height="40"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="80"/>
 </p>
 
 ## Tools & platforms 🛠️
