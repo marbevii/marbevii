@@ -19,8 +19,7 @@ I enjoy sharing content that makes people smile and feel understood.
 
 ## Languages & frameworks 💻
 
-I know the basics of all the languages shown below,  
-but I feel most confident with C++, Python, and the frontend (JavaScript & HTML). <br>
+I know the basics of all the languages shown below, but I feel most confident with C++, Python, and the frontend (JavaScript & HTML). <br>
 Currently, I’m self-teaching React, Next.js, npm, and Docker! <br>
 
 
