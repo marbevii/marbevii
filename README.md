@@ -5,6 +5,9 @@
 
 
 ### Socials 📷
+I enjoy sharing content that makes people smile and feel understood.  
+• On TikTok, I post humor about studying engineering — trying to make this intense journey feel lighter and more fun.  
+• On YouTube, I share vlogs of my daily life and tech-related videos whenever inspiration hits.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mar.bevi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mar.bevi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@marbevii) 
 
 ## Languages & frameworks 💻
