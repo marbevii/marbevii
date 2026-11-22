@@ -22,27 +22,11 @@
 
 <div align="center">
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,php,react,nextjs,nodejs&theme=light&perline=12" alt="Programming Languages and Web Development" />
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,php&theme=light" alt="Programming Languages" />
+<br/>
 
-<br/><br/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css&theme=light" alt="Web Development" />
-
-<br/><br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="Databases" />
-
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,npm&theme=light" alt="Tools and Platforms" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,linux,docker,npm&theme=light&perline=12" alt="Databases, Tools and Platforms" />
 
 </div>
 
@@ -53,16 +37,16 @@
 <div align="center">
 
 <a href="https://instagram.com/mar.bevii">
-  <img src="https://img.shields.io/badge/Instagram-04136B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://tiktok.com/@mar.bevi">
-  <img src="https://img.shields.io/badge/TikTok-04136B?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 <a href="https://youtube.com/@marbevii">
-  <img src="https://img.shields.io/badge/YouTube-04136B?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 <a href="https://github.com/marbevii">
-  <img src="https://img.shields.io/badge/GitHub-04136B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
