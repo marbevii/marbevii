@@ -7,8 +7,6 @@
 
 </div>
 
-<br/>
-
 ## About Me
 
 - Based in **Catalonia, Spain**
