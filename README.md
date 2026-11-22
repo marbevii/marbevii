@@ -18,17 +18,19 @@
 
 <br/>
 
+
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,php,react,nextjs,nodejs&theme=light&perline=12" alt="Programming Languages and Web Development" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,php,react,nextjs,nodejs&theme=light&perline=12" alt="Programming and Web Development" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,linux,docker,npm&theme=light&perline=12" alt="Databases, Tools and Platforms" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,figma,linux,docker,npm,bash,postman&theme=light&perline=12" alt="Databases and Development Tools" />
 
 </div>
+
 
 <br/>
 
