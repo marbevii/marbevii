@@ -49,9 +49,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+<br/>
 
-*Curious by nature. Always learning, always creating.*
+*Learning today. Building tomorrow.*
 
 <br/>
 
