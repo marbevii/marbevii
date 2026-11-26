@@ -55,8 +55,6 @@
 
 *Learning today. Building tomorrow.*
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04136B,50:3454A4,100:A8C5E8&height=120&section=footer" width="100%" />
 
 </div>
